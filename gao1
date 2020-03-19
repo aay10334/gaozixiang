@@ -1,0 +1,620 @@
+#include<iostream>
+#include<string>
+#include<cstring>
+using namespace std ;
+int a,b,c,d,e,f,g,h,i,choose;
+int yi ,er,san,si ,wu,liu,qi,ba;   
+string k;
+ 
+int main(){
+cout<<"    welcome to online mart  "<<endl;
+ cout<<"1.   Micorwave Oven 1.5L"         <<      "***RM299.00"<<endl;
+ cout<<"2.   Panasonic lron"              <<      "***RM40.00"<<endl;
+ cout<<"3.   Rice Cooker 1L"              <<      "***RM80.00"<<endl;
+ cout<<"4.   Hair Dryer"                  <<      "***RM50.00"<<endl;
+ cout<<"5.   Tiers Shoe Rack"             <<      "***RM12.00"<<endl;
+ cout<<"6.   kitchen L Shape Carpet"      <<      "***RM24.00"<<endl;
+ cout<<"7.   San Disk Ultra Micro SD 32GB"<<      "***RM40.00"<<endl;
+ cout<<"8.   Mini Bluetooth Speaker"      <<      "***RM10.00"<<endl;
+ cout<<"    what item do you need?"        <<endl;
+cin>>a; 
+cout<<"How many items do you want?" <<endl;
+ cin>>yi;
+cout<<"Do you want to contine choose item,plaese input 1"<<endl;
+cout<<"if you want to check out ,please input 2 "<<endl;
+cin>>choose;
+switch(choose){
+	
+case 1:
+ cout<<"welcome to online mart";
+ cout<<"1.    Micorwave Oven 1.5L"            <<      "***RM299.00"<<endl;
+ cout<<"2.    Panasonic lron"                 <<      "***RM40.00"<<endl;
+ cout<<"3.    Rice Cooker 1L"                 <<      "***RM80.00"<<endl;
+ cout<<"4.    Hair Dryer"                     <<      "***RM50.00"<<endl;
+ cout<<"5.    Tiers Shoe Rack"                <<      "***RM12.00"<<endl;
+ cout<<"6.    kitchen L Shape Carpet"         <<      "***RM24.00"<<endl;
+ cout<<"7.    San Disk Ultra Micro SD 32GB"   <<      "***RM40.00"<<endl;
+ cout<<"8.    Mini Bluetooth Speaker"         <<      "***RM10.00"<<endl;
+ cout<<       "what item do you need?"        <<endl;
+ cin>>b;
+ cout<<"How many items do you want?" <<endl;
+ cin>>er;
+ cout<<"Do you want to contine choose item,plaese input 1"<<endl;
+ cout<<"if you want to check out ,please input 2 "<<endl;
+cin>>choose;
+
+
+
+switch(choose){
+	case 1:
+	cout<<"welcome to online mart";
+ cout<<"1.Micorwave Oven 1.5L"<<"RM299.00"<<endl;
+ cout<<"2.Panasonic lron"<<"RM40.00"<<endl;
+ cout<<"3.Rice Cooker 1L"<<"RM80.00"<<endl;
+ cout<<"4.Hair Dryer" <<"RM50.00"<<endl;
+ cout<<"5.Tiers Shoe Rack"<<"RM12.00"<<endl;
+ cout<<"6.kitchen L Shape Carpet"<<"RM24.00"<<endl;
+ cout<<"7.San Disk Ultra Micro SD 32GB"<<"RM40.00"<<endl;
+ cout<<"8.Mini Bluetooth Speaker"<<"RM10.00"<<endl;
+ cout<<"what item do you need?"<<endl;
+ cin>>c;
+ cout<<"How many items do you want?" <<endl;
+ cin>>san;
+ cout<<"Do you want to contine choose item,plaese input 1"<<endl;
+cout<<"if you want to check out ,please input 2"<<endl;
+	cin>>choose;
+
+	switch(choose){	
+	case 1:
+	cout<<"welcome to online mart";
+ cout<<"1.Micorwave Oven 1.5L"<<"RM299.00"<<endl;
+ cout<<"2.Panasonic lron"<<"RM40.00"<<endl;
+ cout<<"3.Rice Cooker 1L"<<"RM80.00"<<endl;
+ cout<<"4.Hair Dryer" <<"RM50.00"<<endl;
+ cout<<"5.Tiers Shoe Rack"<<"RM12.00"<<endl;
+ cout<<"6.kitchen L Shape Carpet"<<"RM24.00"<<endl;
+ cout<<"7.San Disk Ultra Micro SD 32GB"<<"RM40.00"<<endl;
+ cout<<"8.Mini Bluetooth Speaker"<<"RM10.00"<<endl;
+ cout<<"what item do you need?"<<endl;
+ cin>>d;
+ cout<<"How many items do you want?" <<endl;
+ cin>>si;
+ cout<<"Do you want to contine choose item,plaese input 1"<<endl;
+cout<<"if you want to check out ,please input 2"<<endl;
+	cin>>choose;
+
+	switch(choose){
+		case 1:
+	cout<<"welcome to online mart";
+ cout<<"1.Micorwave Oven 1.5L"<<"RM299.00"<<endl;
+ cout<<"2.Panasonic lron"<<"RM40.00"<<endl;
+ cout<<"3.Rice Cooker 1L"<<"RM80.00"<<endl;
+ cout<<"4.Hair Dryer" <<"RM50.00"<<endl;
+ cout<<"5.Tiers Shoe Rack"<<"RM12.00"<<endl;
+ cout<<"6.kitchen L Shape Carpet"<<"RM24.00"<<endl;
+ cout<<"7.San Disk Ultra Micro SD 32GB"<<"RM40.00"<<endl;
+ cout<<"8.Mini Bluetooth Speaker"<<"RM10.00"<<endl;
+ cout<<"what item do you need?"<<endl;
+ cin>>e;
+ cout<<"How many items do you want?" <<endl;
+ cin>>wu;
+ cout<<"Do you want to contine choose item,plaese input 1"<<endl;
+cout<<"if you want to check out ,please input 2"<<endl;
+    cin>>choose;
+ 
+	switch(choose)	{
+		case 1:
+  cout<<"welcome to online mart";
+ cout<<"1.Micorwave Oven 1.5L"<<"RM299.00"<<endl;
+ cout<<"2.Panasonic lron"<<"RM40.00"<<endl;
+ cout<<"3.Rice Cooker 1L"<<"RM80.00"<<endl;
+ cout<<"4.Hair Dryer" <<"RM50.00"<<endl;
+ cout<<"5.Tiers Shoe Rack"<<"RM12.00"<<endl;
+ cout<<"6.kitchen L Shape Carpet"<<"RM24.00"<<endl;
+ cout<<"7.San Disk Ultra Micro SD 32GB"<<"RM40.00"<<endl;
+ cout<<"8.Mini Bluetooth Speaker"<<"RM10.00"<<endl;
+ cout<<"what item do you need?"<<endl;
+ cin>>f;
+ cout<<"How many items do you want?" <<endl;
+ cin>>liu;
+ cout<<"Do you want to contine choose item,plaese input 1"<<endl;
+cout<<"if you want to check out ,please input 2"<<endl;
+    cin>>choose;
+	
+		switch(choose){
+			case 1:
+			 cout<<"welcome to online mart";
+ cout<<"1.Micorwave Oven 1.5L"<<"RM299.00"<<endl;
+ cout<<"2.Panasonic lron"<<"RM40.00"<<endl;
+ cout<<"3.Rice Cooker 1L"<<"RM80.00"<<endl;
+ cout<<"4.Hair Dryer" <<"RM50.00"<<endl;
+ cout<<"5.Tiers Shoe Rack"<<"RM12.00"<<endl;
+ cout<<"6.kitchen L Shape Carpet"<<"RM24.00"<<endl;
+ cout<<"7.San Disk Ultra Micro SD 32GB"<<"RM40.00"<<endl;
+ cout<<"8.Mini Bluetooth Speaker"<<"RM10.00"<<endl;
+ cout<<"what item do you need?"<<endl;
+ cin>>g;
+ cout<<"How many items do you want?" <<endl;
+ cin>>qi;
+ cout<<"Do you want to contine choose item,plaese input 1"<<endl;
+cout<<"if you want to check out ,please input 2"<<endl;
+    cin>>choose;
+		
+	    switch(choose){
+	    case 1:
+	     cout<<"welcome to online mart";
+ cout<<"1.    Micorwave Oven 1.5L"            <<"RM299.00" <<endl;
+ cout<<"2.    Panasonic lron"                 <<"RM40.00"  <<endl;
+ cout<<"3.    Rice Cooker 1L"                 <<"RM80.00"  <<endl;
+ cout<<"4.    Hair Dryer"                     <<"RM50.00"  <<endl;
+ cout<<"5.    Tiers Shoe Rack"                <<"RM12.00"  <<endl;
+ cout<<"6.    kitchen L Shape Carpet"         <<"RM24.00"  <<endl;
+ cout<<"7.    San Disk Ultra Micro SD 32GB"   <<"RM40.00"  <<endl;
+ cout<<"8.    Mini Bluetooth Speaker"         <<"RM10.00"  <<endl;
+ cout<<      "what item do you need?"            <<endl;
+ cin>>h;
+ cout<<"How many items do you want?" <<endl;
+ cin>>ba;
+ cout<<"Do you want to contine choose item,plaese input 1"<<endl;
+cout<<"if you want to check out ,please input 2"<<endl;
+    cin>>choose;	
+		
+		switch(choose){
+			case 1:
+			    cout<<"welcome to online mart";
+ cout<<"1.    Micorwave Oven 1.5L"         <<"RM299.00"<<endl;
+ cout<<"2.    Panasonic lron"              <<"RM40.00" <<endl;
+ cout<<"3.    Rice Cooker 1L"              <<"RM80.00" <<endl;
+ cout<<"4.    Hair Dryer"                  <<"RM50.00" <<endl;
+ cout<<"5.    Tiers Shoe Rack"             <<"RM12.00" <<endl;
+ cout<<"6.    kitchen L Shape Carpet"      <<"RM24.00" <<endl;
+ cout<<"7.    San Disk Ultra Micro SD 32GB"<<"RM40.00" <<endl;
+ cout<<"8.    Mini Bluetooth Speaker"      <<"RM10.00" <<endl;
+ cout<<       "what item do you need?"     <<endl;
+ cin>>i;
+ cout<<"Do you want to contine choose item,plaese input 1"<<endl;
+cout<<"if you want to check out ,please input 2"<<endl;
+    cin>>choose;
+}
+			
+	}
+}
+}
+}
+}
+}
+
+case 2:
+	lab:
+	cout<<"if you are staff,you need input \"staff\""<<endl;
+     cout<<"if you are ont staff,you need input \"not staff\""<<endl;
+	cin>> k;
+     if(!strcmp(k.c_str(),"not staff")){
+     	cout<<a;
+     	if (a=1){
+     	cout<<"1.    Micorwave Oven 1.5L"         <<endl; 
+     }
+     	if(a=2){
+     		cout<< "2.    Panasonic lron"                <<endl;
+	 }
+     	if(a=3){
+     		cout<<"3.    Rice Cooker 1L"                 <<endl;
+		 }
+        if(a=4){
+        	cout<<"4.    Hair Dryer"                     <<endl;
+		}
+		if(a=5){
+			cout<<"5.    Tiers Shoe Rack"                <<endl;    
+		}
+		if(a=6){
+			cout<<"6.    kitchen L Shape Carpet"         <<endl;    
+		}
+		if(a=7){
+			cout<<"7.    San Disk Ultra Micro SD 32GB"   <<endl;
+		}
+		if(a=8){
+			cout<<"8.    Mini Bluetooth Speaker"         <<endl;
+		}
+			cout<<b;
+     	if (b=1){
+     	cout<<"1.    Micorwave Oven 1.5L"         <<endl; 
+     }
+     	if(b=2){
+     		cout<< "2.    Panasonic lron"                <<endl;
+	 }
+     	if(b=3){
+     		cout<<"3.    Rice Cooker 1L"                 <<endl;
+		 }
+        if(b=4){
+        	cout<<"4.    Hair Dryer"                     <<endl;
+		}
+		if(b=5){
+			cout<<"5.    Tiers Shoe Rack"                <<endl;    
+		}
+		if(b=6){
+			cout<<"6.    kitchen L Shape Carpet"         <<endl;    
+		}
+		if(b=7){
+			cout<<"7.    San Disk Ultra Micro SD 32GB"   <<endl;
+		}
+		if(b=8){
+			cout<<"8.    Mini Bluetooth Speaker"         <<endl;
+		}
+			cout<<c;
+     	if (c=1){
+     	cout<<"1.    Micorwave Oven 1.5L"         <<endl; 
+     }
+     	if(c=2){
+     		cout<< "2.    Panasonic lron"                <<endl;
+	 }
+     	if(c=3){
+     		cout<<"3.    Rice Cooker 1L"                 <<endl;
+		 }
+        if(c=4){
+        	cout<<"4.    Hair Dryer"                     <<endl;
+		}
+		if(c=5){
+			cout<<"5.    Tiers Shoe Rack"                <<endl;    
+		}
+		if(c=6){
+			cout<<"6.    kitchen L Shape Carpet"         <<endl;    
+		}
+		if(c=7){
+			cout<<"7.    San Disk Ultra Micro SD 32GB"   <<endl;
+		}
+		if(c=8){
+			cout<<"8.    Mini Bluetooth Speaker"         <<endl;
+		}
+			cout<<d;
+     	if (d=1){
+     	cout<<"1.    Micorwave Oven 1.5L"         <<endl; 
+     }
+     	if(d=2){
+     		cout<< "2.    Panasonic lron"                <<endl;
+	 }
+     	if(d=3){
+     		cout<<"3.    Rice Cooker 1L"                 <<endl;
+		 }
+        if(d=4){
+        	cout<<"4.    Hair Dryer"                     <<endl;
+		}
+		if(d=5){
+			cout<<"5.    Tiers Shoe Rack"                <<endl;    
+		}
+		if(d=6){
+			cout<<"6.    kitchen L Shape Carpet"         <<endl;    
+		}
+		if(d=7){
+			cout<<"7.    San Disk Ultra Micro SD 32GB"   <<endl;
+		}
+		if(d=8){
+			cout<<"8.    Mini Bluetooth Speaker"         <<endl;
+		}
+			cout<<e;
+     	if (e=1){
+     	cout<<"1.    Micorwave Oven 1.5L"         <<endl; 
+     }
+     	if(e=2){
+     		cout<< "2.    Panasonic lron"                <<endl;
+	 }
+     	if(e=3){
+     		cout<<"3.    Rice Cooker 1L"                 <<endl;
+		 }
+        if(e=4){
+        	cout<<"4.    Hair Dryer"                     <<endl;
+		}
+		if(e=5){
+			cout<<"5.    Tiers Shoe Rack"                <<endl;    
+		}
+		if(e=6){
+			cout<<"6.    kitchen L Shape Carpet"         <<endl;    
+		}
+		if(e=7){
+			cout<<"7.    San Disk Ultra Micro SD 32GB"   <<endl;
+		}
+		if(e=8){
+			cout<<"8.    Mini Bluetooth Speaker"         <<endl;
+		}
+		 	cout<<f;
+     	if (f=1){
+     	cout<<"1.    Micorwave Oven 1.5L"         <<endl; 
+     }
+     	if(f=2){
+     		cout<< "2.    Panasonic lron"                <<endl;
+	 }
+     	if(f=3){
+     		cout<<"3.    Rice Cooker 1L"                 <<endl;
+		 }
+        if(f=4){
+        	cout<<"4.    Hair Dryer"                     <<endl;
+		}
+		if(f=5){
+			cout<<"5.    Tiers Shoe Rack"                <<endl;    
+		}
+		if(f=6){
+			cout<<"6.    kitchen L Shape Carpet"         <<endl;    
+		}
+		if(f=7){
+			cout<<"7.    San Disk Ultra Micro SD 32GB"   <<endl;
+		}
+		if(f=8){
+			cout<<"8.    Mini Bluetooth Speaker"         <<endl;
+		}
+	     	cout<<g;
+     	if (g=1){
+     	cout<<"1.    Micorwave Oven 1.5L"         <<endl; 
+        }
+     	if(g=2){
+     		cout<< "2.    Panasonic lron"                <<endl;
+	 }
+     	if(g=3){
+     		cout<<"3.    Rice Cooker 1L"                 <<endl;
+		 }
+        if(g=4){
+        	cout<<"4.    Hair Dryer"                     <<endl;
+		}
+		if(g=5){
+			cout<<"5.    Tiers Shoe Rack"                <<endl;    
+		}
+		if(g=6){
+			cout<<"6.    kitchen L Shape Carpet"         <<endl;    
+		}
+		if(g=7){
+			cout<<"7.    San Disk Ultra Micro SD 32GB"   <<endl;
+		}
+		if(g=8){
+			cout<<"8.    Mini Bluetooth Speaker"         <<endl;
+		}
+			cout<<h;
+     	if (h=1){
+     	cout<<"1.    Micorwave Oven 1.5L"         <<endl; 
+     }
+     	if(h=2){
+     		cout<< "2.    Panasonic lron"                <<endl;
+	 }
+     	if(h=3){
+     		cout<<"3.    Rice Cooker 1L"                 <<endl;
+		 }
+        if(h=4){
+        	cout<<"4.    Hair Dryer"                     <<endl;
+		}
+		if(h=5){
+			cout<<"5.    Tiers Shoe Rack"                <<endl;    
+		}
+		if(h=6){
+			cout<<"6.    kitchen L Shape Carpet"         <<endl;    
+		}
+		if(h=7){
+			cout<<"7.    San Disk Ultra Micro SD 32GB"   <<endl;
+		}
+		if(h=8){
+			cout<<"8.    Mini Bluetooth Speaker"         <<endl;
+		}
+	 }
+	 else if (!strcmp(k.c_str(),"staff")){
+	 	cout<<a;
+     	if (a=1){
+     	cout<<"1.    Micorwave Oven 1.5L"         <<endl; 
+     }
+     	if(a=2){
+     		cout<< "2.    Panasonic lron"                <<endl;
+	 }
+     	if(a=3){
+     		cout<<"3.    Rice Cooker 1L"                 <<endl;
+		 }
+        if(a=4){
+        	cout<<"4.    Hair Dryer"                     <<endl;
+		}
+		if(a=5){
+			cout<<"5.    Tiers Shoe Rack"                <<endl;    
+		}
+		if(a=6){
+			cout<<"6.    kitchen L Shape Carpet"         <<endl;    
+		}
+		if(a=7){
+			cout<<"7.    San Disk Ultra Micro SD 32GB"   <<endl;
+		}
+		if(a=8){
+			cout<<"8.    Mini Bluetooth Speaker"         <<endl;
+		}
+			cout<<b;
+     	if (b=1){
+     	cout<<"1.    Micorwave Oven 1.5L"         <<endl; 
+     }
+     	if(b=2){
+     		cout<< "2.    Panasonic lron"                <<endl;
+	 }
+     	if(b=3){
+     		cout<<"3.    Rice Cooker 1L"                 <<endl;
+		 }
+        if(b=4){
+        	cout<<"4.    Hair Dryer"                     <<endl;
+		}
+		if(b=5){
+			cout<<"5.    Tiers Shoe Rack"                <<endl;    
+		}
+		if(b=6){
+			cout<<"6.    kitchen L Shape Carpet"         <<endl;    
+		}
+		if(b=7){
+			cout<<"7.    San Disk Ultra Micro SD 32GB"   <<endl;
+		}
+		if(b=8){
+			cout<<"8.    Mini Bluetooth Speaker"         <<endl;
+		}
+			cout<<c;
+     	if (c=1){
+     	cout<<"1.    Micorwave Oven 1.5L"         <<endl; 
+     }
+     	if(c=2){
+     		cout<< "2.    Panasonic lron"                <<endl;
+	 }
+     	if(c=3){
+     		cout<<"3.    Rice Cooker 1L"                 <<endl;
+		 }
+        if(c=4){
+        	cout<<"4.    Hair Dryer"                     <<endl;
+		}
+		if(c=5){
+			cout<<"5.    Tiers Shoe Rack"                <<endl;    
+		}
+		if(c=6){
+			cout<<"6.    kitchen L Shape Carpet"         <<endl;    
+		}
+		if(c=7){
+			cout<<"7.    San Disk Ultra Micro SD 32GB"   <<endl;
+		}
+		if(c=8){
+			cout<<"8.    Mini Bluetooth Speaker"         <<endl;
+		}
+			cout<<d;
+     	if (d=1){
+     	cout<<"1.    Micorwave Oven 1.5L"         <<endl; 
+     }
+     	if(d=2){
+     		cout<< "2.    Panasonic lron"                <<endl;
+	 }
+     	if(d=3){
+     		cout<<"3.    Rice Cooker 1L"                 <<endl;
+		 }
+        if(d=4){
+        	cout<<"4.    Hair Dryer"                     <<endl;
+		}
+		if(d=5){
+			cout<<"5.    Tiers Shoe Rack"                <<endl;    
+		}
+		if(d=6){
+			cout<<"6.    kitchen L Shape Carpet"         <<endl;    
+		}
+		if(d=7){
+			cout<<"7.    San Disk Ultra Micro SD 32GB"   <<endl;
+		}
+		if(d=8){
+			cout<<"8.    Mini Bluetooth Speaker"         <<endl;
+		}
+			cout<<e;
+     	if (e=1){
+     	cout<<"1.    Micorwave Oven 1.5L"         <<endl; 
+     }
+     	if(e=2){
+     		cout<< "2.    Panasonic lron"                <<endl;
+	 }
+     	if(e=3){
+     		cout<<"3.    Rice Cooker 1L"                 <<endl;
+		 }
+        if(e=4){
+        	cout<<"4.    Hair Dryer"                     <<endl;
+		}
+		if(e=5){
+			cout<<"5.    Tiers Shoe Rack"                <<endl;    
+		}
+		if(e=6){
+			cout<<"6.    kitchen L Shape Carpet"         <<endl;    
+		}
+		if(e=7){
+			cout<<"7.    San Disk Ultra Micro SD 32GB"   <<endl;
+		}
+		if(e=8){
+			cout<<"8.    Mini Bluetooth Speaker"         <<endl;
+		}
+		 	cout<<f;
+     	if (f=1){
+     	cout<<"1.    Micorwave Oven 1.5L"         <<endl; 
+     }
+     	if(f=2){
+     		cout<< "2.    Panasonic lron"                <<endl;
+	 }
+     	if(f=3){
+     		cout<<"3.    Rice Cooker 1L"                 <<endl;
+		 }
+        if(f=4){
+        	cout<<"4.    Hair Dryer"                     <<endl;
+		}
+		if(f=5){
+			cout<<"5.    Tiers Shoe Rack"                <<endl;    
+		}
+		if(f=6){
+			cout<<"6.    kitchen L Shape Carpet"         <<endl;    
+		}
+		if(f=7){
+			cout<<"7.    San Disk Ultra Micro SD 32GB"   <<endl;
+		}
+		if(f=8){
+			cout<<"8.    Mini Bluetooth Speaker"         <<endl;
+		}
+	     	cout<<g;
+     	if (g=1){
+     	cout<<"1.    Micorwave Oven 1.5L"         <<endl; 
+        }
+     	if(g=2){
+     		cout<< "2.    Panasonic lron"                <<endl;
+	 }
+     	if(g=3){
+     		cout<<"3.    Rice Cooker 1L"                 <<endl;
+		 }
+        if(g=4){
+        	cout<<"4.    Hair Dryer"                     <<endl;
+		}
+		if(g=5){
+			cout<<"5.    Tiers Shoe Rack"                <<endl;    
+		}
+		if(g=6){
+			cout<<"6.    kitchen L Shape Carpet"         <<endl;    
+		}
+		if(g=7){
+			cout<<"7.    San Disk Ultra Micro SD 32GB"   <<endl;
+		}
+		if(g=8){
+			cout<<"8.    Mini Bluetooth Speaker"         <<endl;
+		}
+			cout<<h;
+     	if (h=1){
+     	cout<<"1.    Micorwave Oven 1.5L"         <<endl; 
+     }
+     	if(h=2){
+     		cout<< "2.    Panasonic lron"                <<endl;
+	 }
+     	if(h=3){
+     		cout<<"3.    Rice Cooker 1L"                 <<endl;
+		 }
+        if(h=4){
+        	cout<<"4.    Hair Dryer"                     <<endl;
+		}
+		if(h=5){
+			cout<<"5.    Tiers Shoe Rack"                <<endl;    
+		}
+		if(h=6){
+			cout<<"6.    kitchen L Shape Carpet"         <<endl;    
+		}
+		if(h=7){
+			cout<<"7.    San Disk Ultra Micro SD 32GB"   <<endl;
+		}
+		if(h=8){
+			cout<<"8.    Mini Bluetooth Speaker"         <<endl;
+		}
+	 	
+	 }
+	 
+	 else {
+	 	goto lab;
+	 } 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 }}
+ 
