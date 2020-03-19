@@ -1,0 +1,209 @@
+#include<iostream>
+#include<string>
+#include<cstring>
+using namespace std ;
+int a,b,c,d,e,f,g,h,i,choose;
+string k;
+ 
+int main(){
+cout<<"    welcome to online mart  "<<endl;
+ cout<<"1.   Micorwave Oven 1.5L"         <<      "***RM299.00"<<endl;
+ cout<<"2.   Panasonic lron"              <<      "***RM40.00"<<endl;
+ cout<<"3.   Rice Cooker 1L"              <<      "***RM80.00"<<endl;
+ cout<<"4.   Hair Dryer"                  <<      "***RM50.00"<<endl;
+ cout<<"5.   Tiers Shoe Rack"             <<      "***RM12.00"<<endl;
+ cout<<"6.   kitchen L Shape Carpet"      <<      "***RM24.00"<<endl;
+ cout<<"7.   San Disk Ultra Micro SD 32GB"<<      "***RM40.00"<<endl;
+ cout<<"8.   Mini Bluetooth Speaker"      <<      "***RM10.00"<<endl;
+ cout<<"    what item do you need?"        <<endl;
+cin>>a; 
+cout<<"Do you want to contine choose item,plaese input 1"<<endl;
+cout<<"if you want to check out ,please input 2 "<<endl;
+cin>>choose;
+switch(choose){
+	
+case 1:
+ cout<<"welcome to online mart";
+ cout<<"1.    Micorwave Oven 1.5L"            <<      "***RM299.00"<<endl;
+ cout<<"2.    Panasonic lron"                 <<      "***RM40.00"<<endl;
+ cout<<"3.    Rice Cooker 1L"                 <<      "***RM80.00"<<endl;
+ cout<<"4.    Hair Dryer"                     <<      "***RM50.00"<<endl;
+ cout<<"5.    Tiers Shoe Rack"                <<      "***RM12.00"<<endl;
+ cout<<"6.    kitchen L Shape Carpet"         <<      "***RM24.00"<<endl;
+ cout<<"7.    San Disk Ultra Micro SD 32GB"   <<      "***RM40.00"<<endl;
+ cout<<"8.    Mini Bluetooth Speaker"         <<      "***RM10.00"<<endl;
+ cout<<       "what item do you need?"        <<endl;
+ cin>>b;
+ cout<<"Do you want to contine choose item,plaese input 1"<<endl;
+cout<<"if you want to check out ,please input 2 "<<endl;
+cin>>choose;
+
+
+
+switch(choose){
+	case 1:
+	cout<<"welcome to online mart";
+ cout<<"1.Micorwave Oven 1.5L"<<"RM299.00"<<endl;
+ cout<<"2.Panasonic lron"<<"RM40.00"<<endl;
+ cout<<"3.Rice Cooker 1L"<<"RM80.00"<<endl;
+ cout<<"4.Hair Dryer" <<"RM50.00"<<endl;
+ cout<<"5.Tiers Shoe Rack"<<"RM12.00"<<endl;
+ cout<<"6.kitchen L Shape Carpet"<<"RM24.00"<<endl;
+ cout<<"7.San Disk Ultra Micro SD 32GB"<<"RM40.00"<<endl;
+ cout<<"8.Mini Bluetooth Speaker"<<"RM10.00"<<endl;
+ cout<<"what item do you need?"<<endl;
+ cin>>c;
+ cout<<"Do you want to contine choose item,plaese input 1"<<endl;
+cout<<"if you want to check out ,please input 2"<<endl;
+	cin>>choose;
+
+	switch(choose){	
+	case 1:
+	cout<<"welcome to online mart";
+ cout<<"1.Micorwave Oven 1.5L"<<"RM299.00"<<endl;
+ cout<<"2.Panasonic lron"<<"RM40.00"<<endl;
+ cout<<"3.Rice Cooker 1L"<<"RM80.00"<<endl;
+ cout<<"4.Hair Dryer" <<"RM50.00"<<endl;
+ cout<<"5.Tiers Shoe Rack"<<"RM12.00"<<endl;
+ cout<<"6.kitchen L Shape Carpet"<<"RM24.00"<<endl;
+ cout<<"7.San Disk Ultra Micro SD 32GB"<<"RM40.00"<<endl;
+ cout<<"8.Mini Bluetooth Speaker"<<"RM10.00"<<endl;
+ cout<<"what item do you need?"<<endl;
+ cin>>d;
+ cout<<"Do you want to contine choose item,plaese input 1"<<endl;
+cout<<"if you want to check out ,please input 2"<<endl;
+	cin>>choose;
+
+	switch(choose){
+		case 1:
+	cout<<"welcome to online mart";
+ cout<<"1.Micorwave Oven 1.5L"<<"RM299.00"<<endl;
+ cout<<"2.Panasonic lron"<<"RM40.00"<<endl;
+ cout<<"3.Rice Cooker 1L"<<"RM80.00"<<endl;
+ cout<<"4.Hair Dryer" <<"RM50.00"<<endl;
+ cout<<"5.Tiers Shoe Rack"<<"RM12.00"<<endl;
+ cout<<"6.kitchen L Shape Carpet"<<"RM24.00"<<endl;
+ cout<<"7.San Disk Ultra Micro SD 32GB"<<"RM40.00"<<endl;
+ cout<<"8.Mini Bluetooth Speaker"<<"RM10.00"<<endl;
+ cout<<"what item do you need?"<<endl;
+ cin>>e;
+ cout<<"Do you want to contine choose item,plaese input 1"<<endl;
+cout<<"if you want to check out ,please input 2"<<endl;
+    cin>>choose;
+ 
+	switch(choose)	{
+		case 1:
+  cout<<"welcome to online mart";
+ cout<<"1.Micorwave Oven 1.5L"<<"RM299.00"<<endl;
+ cout<<"2.Panasonic lron"<<"RM40.00"<<endl;
+ cout<<"3.Rice Cooker 1L"<<"RM80.00"<<endl;
+ cout<<"4.Hair Dryer" <<"RM50.00"<<endl;
+ cout<<"5.Tiers Shoe Rack"<<"RM12.00"<<endl;
+ cout<<"6.kitchen L Shape Carpet"<<"RM24.00"<<endl;
+ cout<<"7.San Disk Ultra Micro SD 32GB"<<"RM40.00"<<endl;
+ cout<<"8.Mini Bluetooth Speaker"<<"RM10.00"<<endl;
+ cout<<"what item do you need?"<<endl;
+ cin>>f;
+ cout<<"Do you want to contine choose item,plaese input 1"<<endl;
+cout<<"if you want to check out ,please input 2"<<endl;
+    cin>>choose;
+	
+		switch(choose){
+			case 1:
+			 cout<<"welcome to online mart";
+ cout<<"1.Micorwave Oven 1.5L"<<"RM299.00"<<endl;
+ cout<<"2.Panasonic lron"<<"RM40.00"<<endl;
+ cout<<"3.Rice Cooker 1L"<<"RM80.00"<<endl;
+ cout<<"4.Hair Dryer" <<"RM50.00"<<endl;
+ cout<<"5.Tiers Shoe Rack"<<"RM12.00"<<endl;
+ cout<<"6.kitchen L Shape Carpet"<<"RM24.00"<<endl;
+ cout<<"7.San Disk Ultra Micro SD 32GB"<<"RM40.00"<<endl;
+ cout<<"8.Mini Bluetooth Speaker"<<"RM10.00"<<endl;
+ cout<<"what item do you need?"<<endl;
+ cin>>g;
+ cout<<"Do you want to contine choose item,plaese input 1"<<endl;
+cout<<"if you want to check out ,please input 2"<<endl;
+    cin>>choose;
+		
+	    switch(choose){
+	    case 1:
+	     cout<<"welcome to online mart";
+ cout<<"1.    Micorwave Oven 1.5L"            <<"RM299.00" <<endl;
+ cout<<"2.    Panasonic lron"                 <<"RM40.00"  <<endl;
+ cout<<"3.    Rice Cooker 1L"                 <<"RM80.00"  <<endl;
+ cout<<"4.    Hair Dryer"                     <<"RM50.00"  <<endl;
+ cout<<"5.    Tiers Shoe Rack"                <<"RM12.00"  <<endl;
+ cout<<"6.    kitchen L Shape Carpet"         <<"RM24.00"  <<endl;
+ cout<<"7.    San Disk Ultra Micro SD 32GB"   <<"RM40.00"  <<endl;
+ cout<<"8.    Mini Bluetooth Speaker"         <<"RM10.00"  <<endl;
+ cout<<      "what item do you need?"            <<endl;
+ cin>>h;
+ cout<<"Do you want to contine choose item,plaese input 1"<<endl;
+cout<<"if you want to check out ,please input 2"<<endl;
+    cin>>choose;	
+		
+		switch(choose){
+			case 1:
+			    cout<<"welcome to online mart";
+ cout<<"1.    Micorwave Oven 1.5L"         <<"RM299.00"<<endl;
+ cout<<"2.    Panasonic lron"              <<"RM40.00" <<endl;
+ cout<<"3.    Rice Cooker 1L"              <<"RM80.00" <<endl;
+ cout<<"4.    Hair Dryer"                  <<"RM50.00" <<endl;
+ cout<<"5.    Tiers Shoe Rack"             <<"RM12.00" <<endl;
+ cout<<"6.    kitchen L Shape Carpet"      <<"RM24.00" <<endl;
+ cout<<"7.    San Disk Ultra Micro SD 32GB"<<"RM40.00" <<endl;
+ cout<<"8.    Mini Bluetooth Speaker"      <<"RM10.00" <<endl;
+ cout<<       "what item do you need?"     <<endl;
+ cin>>i;
+ cout<<"Do you want to contine choose item,plaese input 1"<<endl;
+cout<<"if you want to check out ,please input 2"<<endl;
+    cin>>choose;
+}
+			
+	}
+}
+}
+}
+}
+}
+
+case 2:
+	lab:
+	cout<<"if you are staff,you need input \"staff\""<<endl;
+     cout<<"if you are ont staff,you need input \"not staff\""<<endl;
+	cin>> k;
+     if(!strcmp(k.c_str(),"not staff")){
+     	
+     	
+     	
+     	
+     	
+	 }
+	 else if (!strcmp(k.c_str(),"staff")){
+	 	
+	 	
+	 }
+	 
+	 else {
+	 	goto lab;
+	 } 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 }}
+ 
